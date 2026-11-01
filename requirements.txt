@@ -1,0 +1,4 @@
+fastapi[standard]>=0.115
+sentence-transformers>=3.0
+qdrant-client>=1.10
+pytest>=8.0

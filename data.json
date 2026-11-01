@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Persamaan linear satu variabel",
+    "text": "Persamaan linear satu variabel diselesaikan dengan memindahkan suku sejenis ke satu ruas sampai nilai x ditemukan.",
+    "category": "aljabar"
+  },
+  {
+    "id": 2,
+    "title": "Sistem persamaan linear dua variabel",
+    "text": "SPLDV dapat diselesaikan dengan metode substitusi, eliminasi, atau grafik untuk mencari titik potong dua garis.",
+    "category": "aljabar"
+  },
+  {
+    "id": 3,
+    "title": "Fungsi kuadrat",
+    "text": "Grafik fungsi kuadrat berbentuk parabola; nilai a menentukan apakah parabola terbuka ke atas atau ke bawah.",
+    "category": "aljabar"
+  },
+  {
+    "id": 4,
+    "title": "Rumus ABC",
+    "text": "Akar-akar persamaan kuadrat dapat dicari dengan rumus ABC, dan diskriminan menentukan jumlah akar real.",
+    "category": "aljabar"
+  },
+  {
+    "id": 5,
+    "title": "Eksponen",
+    "text": "Sifat eksponen menyatakan bahwa perkalian bilangan berpangkat dengan basis sama dilakukan dengan menjumlahkan pangkatnya.",
+    "category": "aljabar"
+  },
+  {
+    "id": 6,
+    "title": "Logaritma",
+    "text": "Logaritma adalah kebalikan dari eksponen dan dipakai untuk mencari pangkat yang menghasilkan suatu bilangan.",
+    "category": "aljabar"
+  },
+  {
+    "id": 7,
+    "title": "Perbandingan trigonometri",
+    "text": "Sinus, kosinus, dan tangen adalah perbandingan sisi-sisi pada segitiga siku-siku terhadap sebuah sudut.",
+    "category": "trigonometri"
+  },
+  {
+    "id": 8,
+    "title": "Sudut istimewa",
+    "text": "Nilai sin, cos, dan tan untuk sudut 30, 45, dan 60 derajat sering dihafalkan karena sering muncul dalam soal.",
+    "category": "trigonometri"
+  },
+  {
+    "id": 9,
+    "title": "Identitas trigonometri",
+    "text": "Identitas sin kuadrat ditambah cos kuadrat sama dengan satu berlaku untuk semua nilai sudut.",
+    "category": "trigonometri"
+  },
+  {
+    "id": 10,
+    "title": "Aturan sinus dan kosinus",
+    "text": "Aturan sinus dan aturan kosinus digunakan untuk menghitung sisi atau sudut pada segitiga yang bukan siku-siku.",
+    "category": "trigonometri"
+  },
+  {
+    "id": 11,
+    "title": "Grafik fungsi trigonometri",
+    "text": "Grafik fungsi sinus berbentuk gelombang yang berulang setiap periode 360 derajat.",
+    "category": "trigonometri"
+  },
+  {
+    "id": 12,
+    "title": "Radian",
+    "text": "Radian adalah satuan ukuran sudut, di mana satu putaran penuh sama dengan dua pi radian.",
+    "category": "trigonometri"
+  },
+  {
+    "id": 13,
+    "title": "Limit fungsi",
+    "text": "Limit menggambarkan nilai yang didekati suatu fungsi ketika variabelnya mendekati suatu bilangan tertentu.",
+    "category": "kalkulus"
+  },
+  {
+    "id": 14,
+    "title": "Turunan",
+    "text": "Turunan fungsi menyatakan laju perubahan sesaat atau kemiringan garis singgung pada suatu titik kurva.",
+    "category": "kalkulus"
+  },
+  {
+    "id": 15,
+    "title": "Aplikasi turunan",
+    "text": "Turunan dipakai untuk mencari nilai maksimum dan minimum, misalnya menentukan ukuran kotak dengan volume terbesar.",
+    "category": "kalkulus"
+  },
+  {
+    "id": 16,
+    "title": "Integral tak tentu",
+    "text": "Integral tak tentu adalah kebalikan dari turunan dan hasilnya selalu ditambah konstanta C.",
+    "category": "kalkulus"
+  },
+  {
+    "id": 17,
+    "title": "Integral tentu",
+    "text": "Integral tentu digunakan untuk menghitung luas daerah di bawah kurva di antara dua batas.",
+    "category": "kalkulus"
+  },
+  {
+    "id": 18,
+    "title": "Aturan rantai",
+    "text": "Aturan rantai dipakai untuk menurunkan fungsi komposisi, yaitu fungsi di dalam fungsi.",
+    "category": "kalkulus"
+  },
+  {
+    "id": 19,
+    "title": "Mean, median, modus",
+    "text": "Mean adalah rata-rata, median adalah nilai tengah data yang sudah diurutkan, dan modus adalah nilai yang paling sering muncul.",
+    "category": "statistika_peluang"
+  },
+  {
+    "id": 20,
+    "title": "Simpangan baku",
+    "text": "Simpangan baku mengukur seberapa jauh data menyebar dari nilai rata-ratanya.",
+    "category": "statistika_peluang"
+  },
+  {
+    "id": 21,
+    "title": "Peluang kejadian",
+    "text": "Peluang suatu kejadian dihitung dari banyak hasil yang diinginkan dibagi banyak seluruh hasil yang mungkin.",
+    "category": "statistika_peluang"
+  },
+  {
+    "id": 22,
+    "title": "Permutasi",
+    "text": "Permutasi menghitung banyak susunan berbeda ketika urutan objek diperhatikan, misalnya susunan ketua dan wakil.",
+    "category": "statistika_peluang"
+  },
+  {
+    "id": 23,
+    "title": "Kombinasi",
+    "text": "Kombinasi menghitung banyak cara memilih objek tanpa memperhatikan urutan, misalnya memilih tiga anggota tim dari sepuluh orang.",
+    "category": "statistika_peluang"
+  },
+  {
+    "id": 24,
+    "title": "Diagram data",
+    "text": "Histogram dan diagram batang membantu melihat sebaran data secara visual.",
+    "category": "statistika_peluang"
+  },
+  {
+    "id": 25,
+    "title": "Teorema Pythagoras",
+    "text": "Pada segitiga siku-siku, kuadrat sisi miring sama dengan jumlah kuadrat kedua sisi lainnya.",
+    "category": "geometri"
+  },
+  {
+    "id": 26,
+    "title": "Luas lingkaran",
+    "text": "Luas lingkaran dihitung dengan pi dikali jari-jari kuadrat, sedangkan kelilingnya dua pi r.",
+    "category": "geometri"
+  },
+  {
+    "id": 27,
+    "title": "Volume bangun ruang",
+    "text": "Volume tabung adalah luas alas lingkaran dikali tinggi, sedangkan volume kerucut sepertiganya.",
+    "category": "geometri"
+  },
+  {
+    "id": 28,
+    "title": "Transformasi geometri",
+    "text": "Translasi, refleksi, rotasi, dan dilatasi adalah cara memindahkan atau mengubah ukuran bangun di bidang koordinat.",
+    "category": "geometri"
+  },
+  {
+    "id": 29,
+    "title": "Jarak dua titik",
+    "text": "Jarak antara dua titik pada bidang koordinat dihitung dengan akar dari selisih x kuadrat ditambah selisih y kuadrat.",
+    "category": "geometri"
+  },
+  {
+    "id": 30,
+    "title": "Kesebangunan",
+    "text": "Dua bangun dikatakan sebangun jika sudut-sudut yang bersesuaian sama besar dan sisi-sisinya sebanding.",
+    "category": "geometri"
+  }
+]
